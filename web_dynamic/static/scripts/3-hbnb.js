@@ -1,3 +1,5 @@
+//Request http://0.0.0.0:5001/api/v1/places_search/:
+
 $(document).ready(init);
 
 const HOST = '0.0.0.0';
